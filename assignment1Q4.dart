@@ -5,7 +5,7 @@
 void main() {
   int year = 2022;
 
-  double leap_year = 2022 % 4;
+  double leap_year = year % 4;
 
   if (leap_year == 0) {
     print("This year is leap year.");

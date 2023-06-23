@@ -1,6 +1,7 @@
 void main() {
   // var name1 = "Bilal";
   // var name2 = "Huz";
+
   // Listing
   // var studentNames = ["Bilal", 1, "Hamza"];
   // List<String> studentName1 = ["Bilal", "Hello"];
@@ -19,6 +20,7 @@ void main() {
 //   String name = "Bilal";
 //   name = "Hamza";
 //   print(name);
+
 // // Replacement
 //   studentNames.replaceRange(0, 1, ["Huzaifa", 5]);
 //   daTa1.replaceRange(daTa1.length - 1, daTa1.length, ["king"]);
@@ -60,3 +62,10 @@ void main() {
 
   // print(daTa1.runtimeType);
 }
+
+/* List Method
+forEach
+firstWhere
+Map
+where
+contains*/ 
